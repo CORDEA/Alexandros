@@ -6,7 +6,6 @@ namespace Alexandros
     [JsonObject(MemberSerialization.OptOut)]
     public class SearchResult
     {
-
         public long ArtistId { get; set; }
 
         public long CollectionId { get; set; }
@@ -52,6 +51,5 @@ namespace Alexandros
         public long TrackTimeMillis { get; set; }
 
         public string Currency { get; set; }
-
     }
 }

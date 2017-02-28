@@ -6,7 +6,6 @@ namespace Alexandros
 {
     public class AlexandrosProvider<T> where T : new()
     {
-
         private T Object { get; }
 
         public AlexandrosProvider()
@@ -48,6 +47,5 @@ namespace Alexandros
             }
             return Object;
         }
-
     }
 }

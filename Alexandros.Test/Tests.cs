@@ -7,14 +7,14 @@ namespace Alexandros.Test
     public class Tests
     {
         [Test]
-		public async Task 値が入ること()
+        public async Task 値が入ること()
         {
             var provider = new AlexandrosProvider<TestClass>();
             var test = await provider.InjectAsync();
 
-			Assert.NotNull(test.StringProperty);
+            Assert.NotNull(test.StringProperty);
 
-			Assert.NotZero(test.LongProperty);
+            Assert.NotZero(test.LongProperty);
 
             var result = test.SearchProperty;
             Assert.NotZero(result.ArtistId);

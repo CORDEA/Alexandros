@@ -10,7 +10,6 @@ namespace Alexandros
 {
     public class ApiClient
     {
-
         private const string BaseUrl = "https://itunes.apple.com/search";
 
         private static HttpClient HttpClient { get; } = new HttpClient();
@@ -19,10 +18,10 @@ namespace Alexandros
         {
             var param = new Dictionary<string, string>
             {
-                { "term", term },
-                { "lang", lang },
-                { "country", country },
-                { "limit", limit.ToString() }
+                {"term", term},
+                {"lang", lang},
+                {"country", country},
+                {"limit", limit.ToString()}
             };
 
             return BaseUrl + "?" + string.Join("&", param.Select(item => $"{item.Key}={item.Value}"));
@@ -42,7 +41,6 @@ namespace Alexandros
 
         internal static async Task<Response> Search(string term, string lang, string country, int limit)
         {
-
 #if MOCK
             var response = GetMockResponse();
 #else

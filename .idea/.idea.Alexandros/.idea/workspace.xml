@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b12bce-7924-4edf-9ac0-fd028f6d9463" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Alexandros/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Alexandros/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Alexandros/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Alexandros/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros.Test/Alexandros.Test.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros.Test/Properties/AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros.Test/TestClass.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros.Test/Tests.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros.Test/packages.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/Alexandros.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/Alexandros.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/AlexandrosProvider.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/ApiClient.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/Properties/AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/Response.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/SearchMockResponse.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/SearchResult.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexandros/packages.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Alexandros/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Alexandros/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros.Test/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Alexandros.Test/Properties/AssemblyInfo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros.Test/TestClass.cs" afterPath="$PROJECT_DIR$/Alexandros.Test/TestClass.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros.Test/Tests.cs" afterPath="$PROJECT_DIR$/Alexandros.Test/Tests.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros/AlexandrosProvider.cs" afterPath="$PROJECT_DIR$/Alexandros/AlexandrosProvider.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros/ApiClient.cs" afterPath="$PROJECT_DIR$/Alexandros/ApiClient.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Alexandros/Properties/AssemblyInfo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros/SearchMockResponse.json" afterPath="$PROJECT_DIR$/Alexandros/SearchMockResponse.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros/SearchResult.cs" afterPath="$PROJECT_DIR$/Alexandros/SearchResult.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandros/packages.config" afterPath="$PROJECT_DIR$/Alexandros/packages.config" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +31,8 @@
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <marker date="1488278949000" expanded="true" signature="35:164" ph="{...}" />
-                    <marker date="1488278949000" expanded="true" signature="150:162" ph="{...}" />
+                    <marker date="1488291433000" expanded="true" signature="35:139" ph="{...}" />
+                    <marker date="1488291433000" expanded="true" signature="125:137" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -54,17 +44,17 @@
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <marker date="1488289039000" expanded="true" signature="6:68" ph="..." />
-                    <marker date="1488289039000" expanded="true" signature="90:1534" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="147:1532" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="225:275" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="319:1525" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="441:1488" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="565:631" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="716:782" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="1063:1154" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="1215:1316" ph="{...}" />
-                    <marker date="1488289039000" expanded="true" signature="1375:1474" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="6:68" ph="..." />
+                    <marker date="1488291935000" expanded="true" signature="90:1532" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="147:1530" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="224:274" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="318:1524" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="440:1487" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="564:630" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="715:781" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1062:1153" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1214:1315" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1374:1473" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -84,20 +74,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ApiClient.cs" pinned="false" current-in-tab="false">
+          <file leaf-file-name="ApiClient.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Alexandros/ApiClient.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
                   <folding>
-                    <marker date="1488286786000" expanded="true" signature="6:170" ph="..." />
-                    <marker date="1488286786000" expanded="true" signature="192:1673" ph="{...}" />
-                    <marker date="1488286786000" expanded="true" signature="221:1671" ph="{...}" />
-                    <marker date="1488286786000" expanded="true" signature="474:836" ph="{...}" />
-                    <marker date="1488286786000" expanded="true" signature="552:721" ph="{...}" />
-                    <marker date="1488286786000" expanded="true" signature="885:1252" ph="{...}" />
-                    <marker date="1488286786000" expanded="true" signature="1146:1217" ph="{...}" />
-                    <marker date="1488286786000" expanded="true" signature="1358:1665" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="6:170" ph="..." />
+                    <marker date="1488291935000" expanded="true" signature="192:1663" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="221:1661" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="473:827" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="551:712" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="876:1243" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1137:1208" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1349:1655" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -109,30 +99,30 @@
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <marker date="1488290905000" expanded="true" signature="6:52" ph="..." />
-                    <marker date="1488290905000" expanded="true" signature="79:2213" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="122:2211" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="172:1564" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="1617:1917" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="1976:2205" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="6:52" ph="..." />
+                    <marker date="1488291935000" expanded="true" signature="79:2237" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="122:2235" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="178:1588" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1641:1941" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="2000:2229" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SearchMockResponse.json" pinned="false" current-in-tab="true">
+          <file leaf-file-name="SearchMockResponse.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Alexandros/SearchMockResponse.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="-1844">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <marker date="1488287895000" expanded="true" signature="0:9697" ph="{...}" />
-                    <marker date="1488287895000" expanded="true" signature="39:9695" ph="[...]" />
-                    <marker date="1488287895000" expanded="true" signature="49:1896" ph="{...}" />
-                    <marker date="1488287895000" expanded="true" signature="1906:3754" ph="{...}" />
-                    <marker date="1488287895000" expanded="true" signature="3764:5647" ph="{...}" />
-                    <marker date="1488287895000" expanded="true" signature="5657:7723" ph="{...}" />
-                    <marker date="1488287895000" expanded="true" signature="7733:9689" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="0:10097" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="39:10095" ph="[...]" />
+                    <marker date="1488291935000" expanded="true" signature="49:1960" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1970:3882" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="3892:5855" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="5865:8043" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="8053:10089" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -144,9 +134,9 @@
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <marker date="1488278949000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
-                    <marker date="1488278949000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-                    <marker date="1488278949000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+                    <marker date="1488291935000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+                    <marker date="1488291935000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+                    <marker date="1488291935000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
                   </folding>
                 </state>
               </provider>
@@ -156,11 +146,11 @@
             <entry file="file://$PROJECT_DIR$/Alexandros.Test/Properties/AssemblyInfo.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="30">
-                  <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+                  <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
                   <folding>
-                    <marker date="1488278949000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
-                    <marker date="1488278949000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-                    <marker date="1488278949000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+                    <marker date="1488291935000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
+                    <marker date="1488291935000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+                    <marker date="1488291935000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
                   </folding>
                 </state>
               </provider>
@@ -186,12 +176,12 @@
                 <state relative-caret-position="705">
                   <caret line="63" column="23" lean-forward="false" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
                   <folding>
-                    <marker date="1488290905000" expanded="true" signature="6:52" ph="..." />
-                    <marker date="1488290905000" expanded="true" signature="79:2213" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="122:2211" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="172:1564" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="1617:1917" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="1976:2205" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="6:52" ph="..." />
+                    <marker date="1488291935000" expanded="true" signature="79:2237" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="122:2235" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="178:1588" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="1641:1941" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="2000:2229" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -203,9 +193,9 @@
                 <state relative-caret-position="-105">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
-                    <marker date="1488288573000" expanded="true" signature="6:36" ph="..." />
-                    <marker date="1488288573000" expanded="true" signature="58:1281" ph="{...}" />
-                    <marker date="1488288573000" expanded="true" signature="135:1279" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="6:36" ph="..." />
+                    <marker date="1488291935000" expanded="true" signature="58:1279" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="135:1277" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -214,11 +204,11 @@
           <file leaf-file-name="TestClass.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Alexandros.Test/TestClass.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+                <state relative-caret-position="420">
+                  <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
                   <folding>
-                    <marker date="1488290905000" expanded="true" signature="60:645" ph="{...}" />
-                    <marker date="1488290905000" expanded="true" signature="86:643" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="60:700" ph="{...}" />
+                    <marker date="1488291935000" expanded="true" signature="89:698" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -241,11 +231,11 @@
         <option value="$PROJECT_DIR$/Alexandros/Result.cs" />
         <option value="$PROJECT_DIR$/Alexandros/Properties/AssemblyInfo.cs" />
         <option value="$PROJECT_DIR$/Alexandros.Test/Properties/AssemblyInfo.cs" />
-        <option value="$PROJECT_DIR$/Alexandros/ApiClient.cs" />
         <option value="$PROJECT_DIR$/Alexandros/SearchMockResponse.json" />
         <option value="$PROJECT_DIR$/Alexandros/AlexandrosProvider.cs" />
         <option value="$PROJECT_DIR$/Alexandros.Test/TestClass.cs" />
         <option value="$PROJECT_DIR$/Alexandros.Test/Tests.cs" />
+        <option value="$PROJECT_DIR$/Alexandros/ApiClient.cs" />
       </list>
     </option>
   </component>
@@ -418,12 +408,12 @@
       <workItem from="1488239106309" duration="1175000" />
       <workItem from="1488268486788" duration="3384000" />
       <workItem from="1488271931721" duration="1082000" />
-      <workItem from="1488285613419" duration="3832000" />
+      <workItem from="1488285613419" duration="4393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10096000" />
+    <option name="totallyTimeSpent" value="10657000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -476,8 +466,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="35:164" ph="{...}" />
-            <marker date="1488278949000" expanded="true" signature="150:162" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="35:139" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="125:137" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -487,9 +477,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488288573000" expanded="true" signature="6:36" ph="..." />
-            <marker date="1488288573000" expanded="true" signature="58:1281" ph="{...}" />
-            <marker date="1488288573000" expanded="true" signature="135:1279" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:36" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="58:1279" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="135:1277" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -499,14 +489,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488286786000" expanded="true" signature="6:170" ph="..." />
-            <marker date="1488286786000" expanded="true" signature="192:1673" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="221:1671" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="474:836" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="552:721" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="885:1252" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="1146:1217" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="1358:1665" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:170" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="192:1663" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="221:1661" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="473:827" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="551:712" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="876:1243" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1137:1208" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1349:1655" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -528,12 +518,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488290905000" expanded="true" signature="6:52" ph="..." />
-            <marker date="1488290905000" expanded="true" signature="79:2213" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="122:2211" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="172:1564" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="1617:1917" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="1976:2205" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:52" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="79:2237" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="122:2235" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="178:1588" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1641:1941" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="2000:2229" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -543,9 +533,9 @@
         <state relative-caret-position="150">
           <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
-            <marker date="1488278949000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1488291935000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -555,9 +545,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1488278949000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1488291935000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -567,17 +557,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488289039000" expanded="true" signature="6:68" ph="..." />
-            <marker date="1488289039000" expanded="true" signature="90:1534" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="147:1532" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="225:275" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="319:1525" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="441:1488" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="565:631" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="716:782" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1063:1154" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1215:1316" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1375:1474" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:68" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="90:1532" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="147:1530" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="224:274" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="318:1524" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="440:1487" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="564:630" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="715:781" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1062:1153" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1214:1315" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1374:1473" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -587,8 +577,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="35:164" ph="{...}" />
-            <marker date="1488278949000" expanded="true" signature="150:162" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="35:139" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="125:137" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -598,17 +588,17 @@
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <marker date="1488289039000" expanded="true" signature="6:68" ph="..." />
-            <marker date="1488289039000" expanded="true" signature="90:1534" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="147:1532" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="225:275" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="319:1525" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="441:1488" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="565:631" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="716:782" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1063:1154" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1215:1316" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1375:1474" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:68" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="90:1532" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="147:1530" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="224:274" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="318:1524" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="440:1487" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="564:630" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="715:781" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1062:1153" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1214:1315" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1374:1473" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -618,9 +608,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488288573000" expanded="true" signature="6:36" ph="..." />
-            <marker date="1488288573000" expanded="true" signature="58:1281" ph="{...}" />
-            <marker date="1488288573000" expanded="true" signature="135:1279" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:36" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="58:1279" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="135:1277" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -642,12 +632,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488290905000" expanded="true" signature="6:52" ph="..." />
-            <marker date="1488290905000" expanded="true" signature="79:2213" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="122:2211" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="172:1564" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="1617:1917" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="1976:2205" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:52" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="79:2237" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="122:2235" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="178:1588" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1641:1941" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="2000:2229" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -658,9 +648,9 @@
         <state relative-caret-position="225">
           <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1488278949000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1488291935000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -670,9 +660,9 @@
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
-            <marker date="1488278949000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1488291935000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -682,8 +672,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="35:164" ph="{...}" />
-            <marker date="1488278949000" expanded="true" signature="150:162" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="35:139" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="125:137" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -693,9 +683,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
-            <marker date="1488278949000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1488291935000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -705,8 +695,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="35:164" ph="{...}" />
-            <marker date="1488278949000" expanded="true" signature="150:162" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="35:139" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="125:137" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -716,9 +706,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
-            <marker date="1488278949000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1488291935000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -730,8 +720,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="35:164" ph="{...}" />
-            <marker date="1488278949000" expanded="true" signature="150:162" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="35:139" ph="{...}" />
+            <marker date="1488291433000" expanded="true" signature="125:137" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -741,17 +731,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488289039000" expanded="true" signature="6:68" ph="..." />
-            <marker date="1488289039000" expanded="true" signature="90:1534" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="147:1532" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="225:275" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="319:1525" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="441:1488" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="565:631" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="716:782" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1063:1154" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1215:1316" ph="{...}" />
-            <marker date="1488289039000" expanded="true" signature="1375:1474" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:68" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="90:1532" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="147:1530" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="224:274" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="318:1524" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="440:1487" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="564:630" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="715:781" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1062:1153" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1214:1315" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1374:1473" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -770,11 +760,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Alexandros.Test/TestClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <marker date="1488290905000" expanded="true" signature="60:645" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="86:643" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="60:700" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="89:698" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -784,9 +774,9 @@
         <state relative-caret-position="-105">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488288573000" expanded="true" signature="6:36" ph="..." />
-            <marker date="1488288573000" expanded="true" signature="58:1281" ph="{...}" />
-            <marker date="1488288573000" expanded="true" signature="135:1279" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:36" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="58:1279" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="135:1277" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -796,12 +786,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488290905000" expanded="true" signature="6:52" ph="..." />
-            <marker date="1488290905000" expanded="true" signature="79:2213" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="122:2211" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="172:1564" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="1617:1917" ph="{...}" />
-            <marker date="1488290905000" expanded="true" signature="1976:2205" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="6:52" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="79:2237" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="122:2235" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="178:1588" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1641:1941" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="2000:2229" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -811,9 +801,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
-            <marker date="1488278949000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:156" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1488291935000" expanded="true" signature="453:677" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="717:951" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -821,11 +811,11 @@
     <entry file="file://$PROJECT_DIR$/Alexandros.Test/Properties/AssemblyInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
-            <marker date="1488278949000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1488278949000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
-            <marker date="1488278949000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+            <marker date="1488291935000" expanded="true" signature="26:213" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1488291935000" expanded="true" signature="515:739" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1488291935000" expanded="true" signature="779:1012" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
           </folding>
         </state>
       </provider>
@@ -838,35 +828,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Alexandros/ApiClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1488286786000" expanded="true" signature="6:170" ph="..." />
-            <marker date="1488286786000" expanded="true" signature="192:1673" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="221:1671" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="474:836" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="552:721" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="885:1252" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="1146:1217" ph="{...}" />
-            <marker date="1488286786000" expanded="true" signature="1358:1665" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Alexandros/SearchMockResponse.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1844">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488287895000" expanded="true" signature="0:9697" ph="{...}" />
-            <marker date="1488287895000" expanded="true" signature="39:9695" ph="[...]" />
-            <marker date="1488287895000" expanded="true" signature="49:1896" ph="{...}" />
-            <marker date="1488287895000" expanded="true" signature="1906:3754" ph="{...}" />
-            <marker date="1488287895000" expanded="true" signature="3764:5647" ph="{...}" />
-            <marker date="1488287895000" expanded="true" signature="5657:7723" ph="{...}" />
-            <marker date="1488287895000" expanded="true" signature="7733:9689" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="0:10097" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="39:10095" ph="[...]" />
+            <marker date="1488291935000" expanded="true" signature="49:1960" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1970:3882" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="3892:5855" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="5865:8043" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="8053:10089" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexandros/ApiClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1488291935000" expanded="true" signature="6:170" ph="..." />
+            <marker date="1488291935000" expanded="true" signature="192:1663" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="221:1661" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="473:827" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="551:712" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="876:1243" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1137:1208" ph="{...}" />
+            <marker date="1488291935000" expanded="true" signature="1349:1655" ph="{...}" />
           </folding>
         </state>
       </provider>
