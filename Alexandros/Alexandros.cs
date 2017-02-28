@@ -2,7 +2,7 @@
 
 namespace Alexandros
 {
-    [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property)]
+    [AttributeUsage(AttributeTargets.Property)]
     public class Alexandros : Attribute
     {
     }
