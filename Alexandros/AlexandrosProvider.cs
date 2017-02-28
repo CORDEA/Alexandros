@@ -13,7 +13,7 @@ namespace Alexandros
             Object = new T();
         }
 
-        public async Task<T> InjectAsync()
+        public async Task<T> ProvideAsync()
         {
             var properties = typeof(T).GetRuntimeProperties();
             foreach (var property in properties)

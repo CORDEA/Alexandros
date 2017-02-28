@@ -10,7 +10,7 @@ namespace Alexandros.Test
         public async Task 値が入ること()
         {
             var provider = new AlexandrosProvider<TestClass>();
-            var test = await provider.InjectAsync();
+            var test = await provider.ProvideAsync();
 
             Assert.NotNull(test.StringProperty);
 
@@ -46,7 +46,7 @@ namespace Alexandros.Test
         public async Task 値が入らないこと()
         {
             var provider = new AlexandrosProvider<TestClass>();
-            var test = await provider.InjectAsync();
+            var test = await provider.ProvideAsync();
 
             Assert.Null(test.ReadOnlyStringProperty);
 
@@ -59,7 +59,7 @@ namespace Alexandros.Test
         public async Task 想定外の型に値が入らないこと()
         {
             var provider = new AlexandrosProvider<TestClass>();
-            var test = await provider.InjectAsync();
+            var test = await provider.ProvideAsync();
 
             Assert.Zero(test.IntProperty);
 
