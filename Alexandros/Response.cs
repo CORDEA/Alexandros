@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 namespace Alexandros
 {
     [JsonObject(MemberSerialization.OptOut)]
-    public class Response
+    internal class Response
     {
         public int ResultCount { get; set; }
 

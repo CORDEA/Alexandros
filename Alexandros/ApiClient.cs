@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace Alexandros
 {
-    public class ApiClient
+    internal class ApiClient
     {
         private const string BaseUrl = "https://itunes.apple.com/search";
 
